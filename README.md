@@ -5,6 +5,13 @@ The chatbot uses TF-IDF Vectorization and Cosine Similarity to understand user i
 
 ---
 
+# 🚀 Live Demo
+
+🌐 Project Link:  
+https://customer-service-ai.streamlit.app
+
+---
+
 ## 🚀 Features
 
 - Interactive real-time chat interface
